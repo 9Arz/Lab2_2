@@ -4,7 +4,8 @@ Markdown Cheatsheet<a name="TOP"></a>
 
 - - - -
  ## Adding information  ##
-      * Jakkaphat Didsabanjong 682115008
+* Jakkaphat Didsabanjong 682115008
+* Puri Sangnawakit 682115036
 # Heading 1 #
 
 
